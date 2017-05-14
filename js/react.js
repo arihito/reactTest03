@@ -23,10 +23,6 @@ var Evaluator = React.createClass({
 });
 
 ReactDOM.render(
-  React.createElement(
-    Evaluator,
-    {
-    	text: '5 / 4'
-    }),
+  <Evaluator />,
   document.getElementById('content')
 );
