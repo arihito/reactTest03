@@ -1,0 +1,19 @@
+{
+  "name": "reactTest03",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/arihito/reactTest03.git",
+  "author": "arihito <arihito.m@gmail.com>",
+  "license": "MIT",
+  "babel": {
+    "presets": [
+      "latest"
+    ]
+  },
+  "dependencies": {
+    "babel-preset-latest": "^6.24.1",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2"
+  }
+}
