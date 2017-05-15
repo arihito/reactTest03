@@ -15,5 +15,9 @@
     "del": "^2.2.2",
     "gulp": "^3.9.1",
     "gulp-babel": "^6.1.2"
+  },
+  "devDependencies": {
+    "babel-loader": "^7.0.0",
+    "webpack-stream": "^3.2.0"
   }
 }
